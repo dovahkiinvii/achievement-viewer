@@ -1,0 +1,379 @@
+{
+  "appid": "812140",
+  "source": "steam-global-achievement-percentages",
+  "updatedAt": "2026-03-10T18:21:52.073Z",
+  "achievements": [
+    {
+      "name": "001",
+      "percent": 91.4
+    },
+    {
+      "name": "002",
+      "percent": 70.7
+    },
+    {
+      "name": "003",
+      "percent": 64.8
+    },
+    {
+      "name": "004",
+      "percent": 59.2
+    },
+    {
+      "name": "005",
+      "percent": 50.2
+    },
+    {
+      "name": "006",
+      "percent": 42.4
+    },
+    {
+      "name": "007",
+      "percent": 42
+    },
+    {
+      "name": "008",
+      "percent": 33.6
+    },
+    {
+      "name": "009",
+      "percent": 32.7
+    },
+    {
+      "name": "010",
+      "percent": 32.4
+    },
+    {
+      "name": "011",
+      "percent": 3.9
+    },
+    {
+      "name": "012",
+      "percent": 61
+    },
+    {
+      "name": "013",
+      "percent": 62.4
+    },
+    {
+      "name": "014",
+      "percent": 83.3
+    },
+    {
+      "name": "015",
+      "percent": 74.5
+    },
+    {
+      "name": "016",
+      "percent": 30
+    },
+    {
+      "name": "017",
+      "percent": 31.9
+    },
+    {
+      "name": "018",
+      "percent": 36.9
+    },
+    {
+      "name": "019",
+      "percent": 24.3
+    },
+    {
+      "name": "020",
+      "percent": 29.1
+    },
+    {
+      "name": "021",
+      "percent": 24.3
+    },
+    {
+      "name": "022",
+      "percent": 11.2
+    },
+    {
+      "name": "023",
+      "percent": 4.2
+    },
+    {
+      "name": "024",
+      "percent": 27.8
+    },
+    {
+      "name": "025",
+      "percent": 31.8
+    },
+    {
+      "name": "026",
+      "percent": 30.5
+    },
+    {
+      "name": "027",
+      "percent": 32.8
+    },
+    {
+      "name": "028",
+      "percent": 21.3
+    },
+    {
+      "name": "029",
+      "percent": 35
+    },
+    {
+      "name": "030",
+      "percent": 23.2
+    },
+    {
+      "name": "031",
+      "percent": 13.3
+    },
+    {
+      "name": "032",
+      "percent": 10.9
+    },
+    {
+      "name": "033",
+      "percent": 7.6
+    },
+    {
+      "name": "034",
+      "percent": 35.2
+    },
+    {
+      "name": "035",
+      "percent": 53.7
+    },
+    {
+      "name": "036",
+      "percent": 33.2
+    },
+    {
+      "name": "037",
+      "percent": 63.4
+    },
+    {
+      "name": "038",
+      "percent": 70.8
+    },
+    {
+      "name": "039",
+      "percent": 57.8
+    },
+    {
+      "name": "040",
+      "percent": 37.7
+    },
+    {
+      "name": "041",
+      "percent": 36.3
+    },
+    {
+      "name": "042",
+      "percent": 62.7
+    },
+    {
+      "name": "043",
+      "percent": 16.7
+    },
+    {
+      "name": "044",
+      "percent": 49.1
+    },
+    {
+      "name": "045",
+      "percent": 18.1
+    },
+    {
+      "name": "046",
+      "percent": 13.6
+    },
+    {
+      "name": "047",
+      "percent": 40.6
+    },
+    {
+      "name": "048",
+      "percent": 51.9
+    },
+    {
+      "name": "049",
+      "percent": 30.5
+    },
+    {
+      "name": "050",
+      "percent": 42.3
+    },
+    {
+      "name": "051",
+      "percent": 12.5
+    },
+    {
+      "name": "052",
+      "percent": 30.4
+    },
+    {
+      "name": "053",
+      "percent": 16.3
+    },
+    {
+      "name": "054",
+      "percent": 22.9
+    },
+    {
+      "name": "055",
+      "percent": 12.6
+    },
+    {
+      "name": "056",
+      "percent": 16.8
+    },
+    {
+      "name": "057",
+      "percent": 11.5
+    },
+    {
+      "name": "058",
+      "percent": 15.8
+    },
+    {
+      "name": "059",
+      "percent": 15.9
+    },
+    {
+      "name": "060",
+      "percent": 19.3
+    },
+    {
+      "name": "061",
+      "percent": 12.5
+    },
+    {
+      "name": "062",
+      "percent": 13.8
+    },
+    {
+      "name": "063",
+      "percent": 10.1
+    },
+    {
+      "name": "064",
+      "percent": 5.1
+    },
+    {
+      "name": "065",
+      "percent": 23.4
+    },
+    {
+      "name": "066",
+      "percent": 15.1
+    },
+    {
+      "name": "067",
+      "percent": 5.7
+    },
+    {
+      "name": "068",
+      "percent": 13.3
+    },
+    {
+      "name": "069",
+      "percent": 4.2
+    },
+    {
+      "name": "070",
+      "percent": 11.8
+    },
+    {
+      "name": "071",
+      "percent": 3.7
+    },
+    {
+      "name": "072",
+      "percent": 12.6
+    },
+    {
+      "name": "073",
+      "percent": 11.4
+    },
+    {
+      "name": "074",
+      "percent": 14.6
+    },
+    {
+      "name": "075",
+      "percent": 11.5
+    },
+    {
+      "name": "076",
+      "percent": 2.9
+    },
+    {
+      "name": "077",
+      "percent": 10.3
+    },
+    {
+      "name": "078",
+      "percent": 10.5
+    },
+    {
+      "name": "079",
+      "percent": 11.9
+    },
+    {
+      "name": "080",
+      "percent": 11.8
+    },
+    {
+      "name": "081",
+      "percent": 6.5
+    },
+    {
+      "name": "082",
+      "percent": 12.1
+    },
+    {
+      "name": "083",
+      "percent": 8.6
+    },
+    {
+      "name": "084",
+      "percent": 11
+    },
+    {
+      "name": "085",
+      "percent": 5.4
+    },
+    {
+      "name": "086",
+      "percent": 8.7
+    },
+    {
+      "name": "087",
+      "percent": 10.3
+    },
+    {
+      "name": "088",
+      "percent": 10.2
+    },
+    {
+      "name": "089",
+      "percent": 2.9
+    },
+    {
+      "name": "090",
+      "percent": 8.8
+    },
+    {
+      "name": "091",
+      "percent": 7.8
+    },
+    {
+      "name": "092",
+      "percent": 9
+    },
+    {
+      "name": "093",
+      "percent": 8.4
+    }
+  ]
+}
