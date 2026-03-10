@@ -1,5 +1,5 @@
 {
-  "last_updated": 1773170446,
+  "last_updated": 1773173652,
   "total_games": 1,
   "games": [
     {
@@ -849,9 +849,382 @@
         },
         "platform": null,
         "blacklist": [],
-        "uses_db": false
+        "uses_db": true
       },
-      "achievements": {}
+      "achievements": {
+        "001": {
+          "earned": true,
+          "earned_time": 1754999467
+        },
+        "002": {
+          "earned": true,
+          "earned_time": 1765429476
+        },
+        "003": {
+          "earned": true,
+          "earned_time": 1766807724
+        },
+        "004": {
+          "earned": true,
+          "earned_time": 1767330589
+        },
+        "005": {
+          "earned": true,
+          "earned_time": 1768276990
+        },
+        "006": {
+          "earned": true,
+          "earned_time": 1771363335
+        },
+        "007": {
+          "earned": true,
+          "earned_time": 1771450703
+        },
+        "008": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "009": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "010": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "011": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "012": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "013": {
+          "earned": true,
+          "earned_time": 1766808271
+        },
+        "014": {
+          "earned": true,
+          "earned_time": 1755000381
+        },
+        "015": {
+          "earned": true,
+          "earned_time": 1755000514
+        },
+        "016": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "017": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "018": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "019": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "020": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "021": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "022": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "023": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "024": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "025": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "026": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "027": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "028": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "029": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "030": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "031": {
+          "earned": true,
+          "earned_time": 1772986027
+        },
+        "032": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "033": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "034": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "035": {
+          "earned": true,
+          "earned_time": 1768398838
+        },
+        "036": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "037": {
+          "earned": true,
+          "earned_time": 1766808238
+        },
+        "038": {
+          "earned": true,
+          "earned_time": 1755000514
+        },
+        "039": {
+          "earned": true,
+          "earned_time": 1767339991
+        },
+        "040": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "041": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "042": {
+          "earned": true,
+          "earned_time": 1766983435
+        },
+        "043": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "044": {
+          "earned": true,
+          "earned_time": 1770252165
+        },
+        "045": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "046": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "047": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "048": {
+          "earned": true,
+          "earned_time": 1767085359
+        },
+        "049": {
+          "earned": true,
+          "earned_time": 1772895197
+        },
+        "050": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "051": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "052": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "053": {
+          "earned": true,
+          "earned_time": 1770690996
+        },
+        "054": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "055": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "056": {
+          "earned": true,
+          "earned_time": 1772893326
+        },
+        "064": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "065": {
+          "earned": true,
+          "earned_time": 1770248083
+        },
+        "066": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "067": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "068": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "057": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "058": {
+          "earned": true,
+          "earned_time": 1770590579
+        },
+        "069": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "070": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "071": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "072": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "073": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "059": {
+          "earned": true,
+          "earned_time": 1773066195
+        },
+        "060": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "074": {
+          "earned": true,
+          "earned_time": 1770111443
+        },
+        "075": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "076": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "077": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "078": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "061": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "062": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "079": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "080": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "081": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "082": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "083": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "063": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "084": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "085": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "086": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "087": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "088": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "089": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "090": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "091": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "092": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "093": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
     }
   ]
 }
