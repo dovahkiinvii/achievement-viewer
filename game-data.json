@@ -1,5 +1,5 @@
 {
-  "last_updated": 1775541504,
+  "last_updated": 1775628033,
   "total_games": 1,
   "games": [
     {
@@ -664,7 +664,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/812140/fba5eed7d7b4eeb8efce9591d11e75069bf63d81.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "32.8"
+            "percent": "32.7"
           },
           "029": {
             "name": "The Argonauts",
